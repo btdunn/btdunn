@@ -7,6 +7,11 @@ Excellent at intuiting and assessing customer needs and delivering products and 
 Approaching programming problems with the same tenacity, persistence and creativity as rock climbing problems.
  
   
+## Projects :art:
+
+** Beyond Air Travel ** [Demo](https://youtu.be/eSepP49B0Eg) [Frontend Repo](https://github.com/btdunn/beyond-front)
+  
+  
 ## Get in Touch :mailbox:
 
 <p>
