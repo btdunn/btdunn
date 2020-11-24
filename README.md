@@ -6,6 +6,16 @@ Excellent at intuiting and assessing customer needs and delivering products and 
 
 Approaching programming problems with the same tenacity, persistence and creativity as rock climbing problems.
 
+## Get in Touch
+
+<p>
+  <a href="https://www.linkedin.com/in/ben-dunn-15977b15b/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+    <a href="https://benthedunn.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
+ </p>
+ 
+ <br />
+
+
 ## Skills
 
 <p align="left">
@@ -22,13 +32,3 @@ Approaching programming problems with the same tenacity, persistence and creativ
   <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/amazonwebservices-plain-wordmark.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
 </p>
-
-<span></span>
-
-## Bonus Skills
-
-<p>
-  Inside Sales | Outside Sales | Customer Service | Account Management | Social Media | Podcasting | Radio | Merchandising | Mixology | Graphic Design | Modeling 
-</p>
-
-
