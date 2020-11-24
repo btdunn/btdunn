@@ -2,22 +2,22 @@
 
 Experienced Full Stack Software Engineer brought up on Javascript and Ruby on Rails! Sales and Customer Service background with strong interpersonal skills and relentless positivity.
 
-Excellent at intuiting and assessing customer needs and delivering products and services clients love. An engine of positive company culture with an indomitable spirit, inclusive kindness, and innovative thinking.
+Excellent at intuiting and assessing customer needs and delivering products and services clients love. Passionate problem solver. An engine of positive company culture with an indomitable spirit, inclusive kindness, and innovative thinking.
 
 Approaching programming problems with the same tenacity, persistence and creativity as rock climbing problems.
  
   
-## Get in Touch
+## Get in Touch :mailbox:
 
 <p>
   <a href="https://www.linkedin.com/in/ben-dunn-15977b15b/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-    <a href="https://benthedunn.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
+  <a href="https://benthedunn.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
  </p>
  
  <br />
  
  
-## Skills
+## Skills :computer:
 
 <p align="left">
   <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
