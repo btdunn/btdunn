@@ -11,7 +11,7 @@ Approaching programming problems with the same tenacity, persistence and creativ
   <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
   <img src="https://i.imgur.com/H8DuLja.png" alt="ts" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" align="left" width="40" height="40"/>
+  <img src="https://i.imgur.com/rTNkWSQ.png" alt="react" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/vuejs-plain.svg?size=128&color=currentColor" alt="vue" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
