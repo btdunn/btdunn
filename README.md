@@ -23,7 +23,7 @@ Approaching programming problems with the same tenacity, persistence and creativ
   <img src="https://icongr.am/devicon/amazonwebservices-plain-wordmark.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
 </p>
 
-</ br>
+<span></span>
 
 ## Bonus Skills
 
