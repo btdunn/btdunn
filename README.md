@@ -7,7 +7,7 @@ Excellent at intuiting and assessing customer needs and delivering products and 
 Approaching programming problems with the same tenacity, persistence and creativity as rock climbing problems.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" alt="html" align="left" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.cs" alt="css" align="left" width="40" height="40"/>
+<img src="hhttps://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css" align="left" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" alt="js" align="left" width="40" height="40"/>
 <img src="" alt="" align="left" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" alt="react" align="left" width="40" height="40"/>
