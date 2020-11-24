@@ -9,8 +9,11 @@ Approaching programming problems with the same tenacity, persistence and creativ
   
 ## Projects :art:
 
-** Beyond Air Travel ** [Demo](https://youtu.be/eSepP49B0Eg) [Frontend Repo](https://github.com/btdunn/beyond-front)
-  
+**Beyond Air Travel** [Demo](https://youtu.be/eSepP49B0Eg)|[Frontend Repo](https://github.com/btdunn/beyond-front)
+An immersive imagining of a retro-futuristic airline booking site in the Mid Century Modern style. Vuex and NodeJS
+
+**Just Perchin'** [Demo](https://youtu.be/k4Wv7xSpzBE)|[Frontend Repo](https://github.com/btdunn/perchinFront)
+A garish, loud, parrot themed app with drag and drop birds and achievements. Vanilla JS and Ruby on Rails
   
 ## Get in Touch :mailbox:
 
