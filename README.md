@@ -9,6 +9,10 @@ Approaching programming problems with the same tenacity, persistence and creativ
   
 ## Projects :art:
 
+**Masterful Mixtures Potion Shop** *WIP* [Demo]Coming Soon! | [Frontend Repo](https://github.com/btdunn/potion-shop) | [Backend Repo](https://github.com/btdunn/potion-shop-back)
+
+:tea: An RPG themed potion shopping experience with visual novel elements, drag and drop potions, and randomly generated inventory! React Typescript and Ruby on Rails.
+
 **Beyond Air Travel** [Demo](https://youtu.be/eSepP49B0Eg) | [Frontend Repo](https://github.com/btdunn/beyond-front)
 
 :airplane: An immersive imagining of a retro-futuristic airline booking site in the Mid Century Modern style. Vuex and NodeJS
