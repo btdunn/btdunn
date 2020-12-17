@@ -51,3 +51,5 @@ Approaching programming problems with the same tenacity, persistence and creativ
   <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/amazonwebservices-plain-wordmark.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
 </p>
+
+Curious about how I did this? Check out my guide [here](https://benthedunn.medium.com/github-revamp-guide-8f48a890e61e)
