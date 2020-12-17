@@ -54,6 +54,6 @@ Approaching programming problems with the same tenacity, persistence and creativ
 
 <br />
 
-## Curious about how I did this? :question:
+## Want your GitHub to look like mine :question:
 
-<p>Check out my guide [here](https://benthedunn.medium.com/github-revamp-guide-8f48a890e61e)</p>
+Check out my guide [here](https://benthedunn.medium.com/github-revamp-guide-8f48a890e61e) 
