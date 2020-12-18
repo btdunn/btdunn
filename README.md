@@ -55,6 +55,6 @@ Approaching programming problems with the same tenacity, persistence and creativ
 <br />
 &emsp;
 
-## Want your GitHub to look like mine :question:
+## Make Your Github Look Like Mine :exclamation:
 
 Check out my guide [here](https://benthedunn.medium.com/github-revamp-guide-8f48a890e61e) 
