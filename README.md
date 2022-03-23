@@ -5,25 +5,7 @@ Experienced Full Stack Software Engineer brought up on Javascript and Ruby on Ra
 Excellent at intuiting and assessing customer needs and delivering products and services clients love. Passionate problem solver. An engine of positive company culture with an indomitable spirit, inclusive kindness, and innovative thinking.
 
 Approaching programming problems with the same tenacity, persistence and creativity as rock climbing problems.
- 
-  
-## Projects :art:
 
-**Masterful Mixtures Potion Shop** *WIP* [Demo]Coming Soon! | [Frontend Repo](https://github.com/btdunn/potion-shop) | [Backend Repo](https://github.com/btdunn/potion-shop-back)
-
-:tea: An RPG themed potion shopping experience with visual novel elements, drag and drop potions, and randomly generated inventory! React Typescript and Ruby on Rails.
-
-**Beyond Air Travel** [Demo](https://youtu.be/eSepP49B0Eg) | [Frontend Repo](https://github.com/btdunn/beyond-front)
-
-:airplane: An immersive imagining of a retro-futuristic airline booking site in the Mid Century Modern style. Vuex and NodeJS
-
-**Just Perchin'** [Demo](https://youtu.be/k4Wv7xSpzBE) | [Frontend Repo](https://github.com/btdunn/perchinFront)
-
-:hatched_chick: A garish, loud, parrot themed app with drag and drop birds and achievements. Vanilla JS and Ruby on Rails
-
-**Tarot App** [Frontend Repo](https://github.com/btdunn/tarot_Front)
-
-:crystal_ball: A 3 card Tarot reading app using Vanilla JS and Ruby on Rails
   
 ## Get in Touch :mailbox:
 
