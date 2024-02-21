@@ -1,10 +1,6 @@
 # :bow:  Hey! I'm Ben! :bow: 
 
-Experienced Full Stack Software Engineer brought up on Javascript and Ruby on Rails! Sales and Customer Service background with strong interpersonal skills and relentless positivity.
-
-Excellent at intuiting and assessing customer needs and delivering products and services clients love. Passionate problem solver. An engine of positive company culture with an indomitable spirit, inclusive kindness, and innovative thinking.
-
-Approaching programming problems with the same tenacity, persistence and creativity as rock climbing problems.
+Frontend Software Engineer specializing in JavaScript with a passion for crafting clean, efficient code. Bootcamp grad paying it forward by helping the next generation find their future in the industry. Experienced in realizing enterprise UI/UX, I thrive on solving complex challenges, optimizing web performance, and collaborating cross-functionally. Proficient in Vue and React, both with Typescript, and dedicated to continuous learning and innovation. Let's build the future of web development together!
 
   
 ## Get in Touch :mailbox:
