@@ -1,6 +1,6 @@
 # :bow:  Hey! I'm Ben! :bow: 
 
-Frontend Software Engineer specializing in JavaScript with a passion for crafting clean, efficient code. Bootcamp grad paying it forward by helping the next generation find their future in the industry. Experienced in realizing enterprise UI/UX, I thrive on solving complex challenges, optimizing web performance, and collaborating cross-functionally. Proficient in Vue and React, both with Typescript, and dedicated to continuous learning and innovation. Let's build the future of web development together!
+Fullstack Software Engineer specializing in Frontend Javascript. Proficient in Vue and React, always with Typescript. Passionate about building scalable, responsive web applications and collaborating with cross-functional teams to deliver clean, maintainable code. I want to put products into the world that users like me love to work with because of their usability, performance and quality. 
 
   
 ## Get in Touch :mailbox:
